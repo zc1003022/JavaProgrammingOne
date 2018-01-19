@@ -1,13 +1,19 @@
 package Chapter5;
 
-/**
- *
- * @author zc1003022
- */
 import java.util.Scanner;
 
+/**
+ * Program reads Celsius and converts to Fahrenheit
+ *
+ * @author Zach Conaughty
+ */
 public class C5_34 {
 
+    /**
+     * Main Method
+     *
+     * @param args arguments from command line prompt
+     */
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int computerGuess, playerGuess;

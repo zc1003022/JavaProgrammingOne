@@ -1,13 +1,20 @@
 package Chapter6;
 
-/**
- *
- * @author zc1003022
- */
 import java.util.Scanner;
+
+/**
+ * Program reads Celsius and converts to Fahrenheit
+ *
+ * @author Zach Conaughty
+ */
 
 public class C6_18 {
 
+    /**
+     * Main Method
+     *
+     * @param args arguments from command line prompt
+     */
     public static final int PASSWORD_REQUIRED_LENGTH = 8;
 
     public static void main(String[] args) {
